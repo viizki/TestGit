@@ -5,5 +5,6 @@ class Test {
 		System.out.println("test again");
 		System.out println("test by viizki xww@test.com");
 		System.out.println("test by viizki2 viizki@163.com");
+		// last commit is bad, this commit is ok.
 	}
 }
