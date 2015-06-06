@@ -8,5 +8,6 @@ class Test {
 		// last commit is bad, this commit is ok.
 
 		System.out.println("test by xohozu xohozu@gmail.com");
+		System.out.println("test by xohozu xohozu@gmail.com again");
 	}
 }
